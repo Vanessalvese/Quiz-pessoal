@@ -7,7 +7,7 @@
 <br />
 <br />
 <h3 align="center">
-Um simples Quiz feito em Dart/Flutter para praticar essa tecnologia incrível ; )
+Um Quiz feito em Dart/Flutter para praticar!
 </h3>
 <br />
 <br />
@@ -33,4 +33,4 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Um mini Quiz de anatomia
+Um Quiz sobre mim
